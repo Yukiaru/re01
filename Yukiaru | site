@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yukiaru | site</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-color:#F1f1f1;
+      text-align: center;
+      padding: 30px;
+    ">
+      <img src='https://pbs.twimg.com/profile_images/1838055821504397312/BLcS4dbS_400x400.jpg' alt="yukiaru" width="200px" height="200px" />
+    <div>
+    <div style="
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+      color: red
+    ">
+       <p>Yukiaru is god</p>
+       <p>Yukiaru is god</p>
+       <p>Yukiaru is god</p>
+       <p>Yukiaru is god</p>
+       <p>Yukiaru is god</p>
+       <p>Yukiaru is god</p>  
+    <div>
+    <div style="
+      background-color:#3233;
+      text-align: center;
+      padding: 40px;
+      font-size: 19px;
+    ">
+      <p>Yukiaru site</p>
+      <a href="https://x.com/yukiarudayo">My twitter</div>
+    <div>
+  </body>
+</html>
